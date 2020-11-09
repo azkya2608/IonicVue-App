@@ -5,7 +5,7 @@
             <ion-title>Photo Gallery</ion-title>
         </ion-toolbar>
     </ion-header>
-    <ion-content :fullscreen="true" color="dark">
+    <ion-content :fullscreen="true" color="light">
 
         <ion-header collapse="condense">
             <ion-toolbar>
