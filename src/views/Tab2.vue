@@ -8,7 +8,7 @@
     <ion-content :fullscreen="true" color="dark">
 
         <ion-header collapse="condense">
-            <ion-toolbar color="primary">
+            <ion-toolbar>
                 <ion-title size="large">Photo Gallery</ion-title>
             </ion-toolbar>
         </ion-header>
