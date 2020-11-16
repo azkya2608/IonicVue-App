@@ -25,6 +25,7 @@
                 <ion-icon :icon="camera"></ion-icon>
             </ion-fab-button>
         </ion-fab>
+
     </ion-content>
 </ion-page>
 </template>
@@ -33,7 +34,8 @@
 import {
     camera,
     trash,
-    close
+    close,
+
 } from 'ionicons/icons';
 import {
     actionSheetController,
@@ -106,7 +108,8 @@ export default {
             showActionSheet,
             camera,
             trash,
-            close
+            close,
+
         }
     }
 }
